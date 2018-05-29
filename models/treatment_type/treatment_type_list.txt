@@ -1,0 +1,4 @@
+Surveillance: surveillance, watchful waiting, watchfulwaiting, wait and watch, watch and wait, AS
+Radiation: radiation, imrt, igrt, brachytherapy, radiotherapy, seed therapy, brachy, seed implant, ebrt, RT, irradiation, nano knife, nanoknife, proton treatment, proton therapy, proton beam treatment, seeds implant, radioactive seeds, seeds therapy, cyber knife, cyberknife, CK
+Surgery: surgery, davinci, da vinci, robotic, prostatectomy, laparoscopic, ralp, rrp, open rp, retropubic, lrp, rarp, robotically, rpp, key hole, keyhole, post op
+

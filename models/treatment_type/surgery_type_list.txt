@@ -1,0 +1,4 @@
+ORP: open RP, Open Radical Prostatectomy, open surgery, open prostate surgery, open prostatectomy, retropubic
+Laparoscopic: Laparoscopic, laparoscopically
+RALP: ralp, robotic, da vinci, davinci, lrp, RARP, robotically, RRP
+OTHER: perineal surgery, perineal prostatectomy, perineal prostate surgery, RPP, key hole, keyhole

@@ -1,0 +1,6 @@
+Surgery_Short-term: bleed, bleeding, bled, hemorrhage, haemorrhage, UTI, infect, infecting, infection, pneumonia, clot, dvt, deep vein, thrombosis, hypertension, stroke
+Surgery_Long-term: leakage, leak, drip, incontinence, stress incontinence, urge incontinence, total incontinence, erectile dysfunction, dysfunction,
+Radiation-therapy_Short-term: impotence, shortening, penile shortening, bladder neck contracture, scarring, fibrosis, stricture, narrowing, hernia, bulge, lump
+Radiation-therapy_Long-term:
+
+

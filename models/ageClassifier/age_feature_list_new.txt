@@ -1,0 +1,33 @@
+LHasI: I, Im, Iam, I'm
+LHasMy: my, our
+LHasGenderDirect: male, female, a mother, woman, man, a mom, a dad, a widow, a widower
+RHasGenderDirect: male, female, a mother, woman, man, a mom, a dad, a widow, a widower
+LHasGenderIndirect: mother, mom, mum, father, dad, brother, sister, son, daughter, baby, boy, girl, wife, husband, partner, uncle, aunt, niece, nephew, cousin, friend, he, she, her, his, lady, grl, widow, widower, mother, fiancee, fiance
+RHasGenderIndirect: mother, mom, mum, father, dad, brother, sister, son, daughter, baby, boy, girl, wife, husband, partner, uncle, aunt, niece, nephew, cousin, friend, he, she, her, his, lady, grl, widow, widower, mother, fiancee, fiance
+LAuxiliary: am, m, Im, was, will, is, Iam
+LAt: at, now, about, only, turning, turned
+LD: \d+
+%RD: \d+
+LAge: age, aged
+LOther: weigh, weight, BMI, ESR, CRP, BP, catch, monitor, rate, costs, cost, pressure, pulse, psa, gleason, score
+LDuration: over, past, for
+LUnrelated: from, between, on, psa, gleason, score
+MYear: year, years, yo, yrs, y\/o, s
+MOld: yo, y\/o
+MDose: mg, gram, dose, meq, mgs, ug, mcgs, mcg, g, pill, pills, tabs
+MTime: hours, hrs, seconds, minutes, min, hour, minute, second, rounds,  mins
+MMonthWeek: weeks, wks, months, month, day, days, l
+MUnrelated: DD, th, rd, st, nd, am, pm, dl, bpm, km, m, cm, ft, in, nmol, OHD, mmhg, ml, k, litre, litres, mile, miles, stone, pound, kg, kilos, gram, grams, lbs, pounds, oz, ozs, inch, inches, F, C, feet, gm, gy, biopsies
+RUnrelated: DD, th, rd, st, nd, pm, dl, bpm, km, m, cm, ft, in, nmol, OHD, mmhg, ml, k, litre, litres, mile, miles, stone, pound, kg, kilos, gram, grams, lbs, pounds, oz, ozs, inch, inches,  catch, monitor, 7, F, C, percent, dollar, million, feet, gm, gy, biopsies, points, treatments
+RHasI: I, Im, Iam, I'm
+%RAuxiliary: is, am, m, Im, was, will
+RYear: year, years, yrs, s, yo, y\/o
+RMonthWeek: weeks, wks, months, month, day, days
+ROld: old, yo, y\/o
+RDose: mg, gram, dose, tablet, tablets,  tabs, meq, mgs, micrograms, microgram, ug, milligram, milligrams, mcgs, mcg, g, pill, pills
+RDuration: ago, later, after
+ROther: times, per, x
+RTime: hours, hrs, seconds, minutes, min, hour, minute, second, rounds,  mins
+RWeight: stone, pound, kg, kilos, lbs, pounds, lb, pound
+%RPercentage: \s\%\s, percent
+

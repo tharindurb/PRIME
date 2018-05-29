@@ -1,0 +1,16 @@
+Bleeding:bleed, bleeding, bled, hemorrhage, haemorrhage
+Infection: wound infection, urine infection, UTI, infect, infecting, infection, pneumonia
+Clot: clot, dvt, deep vein, thrombosis, hypertension
+Stroke: stroke
+Urinary incontinence: leakage, leak, drip, incontinence, stress incontinence, urge incontinence, total incontinence
+Bladder neck contracture: impotence, shortening, penile shortening, bladder neck contracture, scarring, fibrosis, stricture, narrowing
+Hernia: hernia, bulge, lump
+Tiredness: tiredness, fatigue, exhaustion
+Bladder Irritation: cystitis, bladder irritation, urinary frequency, frequent urination, urgency, urge to pee, urge to urinate, dysuria, burning, haematuria, blood in urine, blood in pee,
+Rectal irritation: rectal irritation, frequent bowel movements, rectal burning, rectal burn, mucus, rectal urgency
+Urethral strictures: strictures, stricture, scarring, fibrosis, narrowing
+Rectal irritation/bleeding: proctitis, fistula
+Erectile dysfunction: erectile dysfunction, dysfunction, ED, loss of erection, no erection, lost erection, lost my erection, lost masculinity, lost my masculinity, loss of erections, no erections
+
+
+

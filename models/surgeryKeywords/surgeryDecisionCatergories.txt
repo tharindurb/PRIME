@@ -1,0 +1,15 @@
+Medical Indication: large prostate, heart, adhesion, adhesions, adhession, adhessions, chest, BPH, complications
+Nerve: nerve, nerves
+Age: young
+Bowel Symptoms: rectal irritation, frequent bowel movements, rectal burning, rectal burn, mucus, rectal urgency, proctitis, fistula
+Urinary incontinence: leakage, leak, drip, incontinence, stress incontinence, urge incontinence, total incontinence
+Erectile dysfunction: erectile dysfunction, dysfunction, ED, loss erection, no erection, lost erection, lost my erection, lost masculinity, lost my masculinity
+Recovery Time: back work, faster recovery, quicker recovery, healing time, short healing, recovery time, recovery quicker, hospital stay
+Best Cancer Control: recurrence, recurrences, reoccur, life expectancy, out quickly, precision, coming back,  get rid, remove cancer altogether, remove all, remove , cancer free, free cancer, feel prostate, can feel, feel it, feel cancer, feel cancer, touch prostate, visibility, visible, see prostate, see cancer, visualise
+Financial: financial, money, cost, insurance, financially
+Less Invasive: restitch, loss blood, blood loss, less invasive, less stitches
+Source: website, web, book, forum, article, reading, read, link, url, booklet, internet
+Doctor Skill: experience, experienced, record success, specialised, confidence, confident, performs most, skill, thousand, over \d+, done \d+, \d\d\d, \d\d\d\d , selected, select, done over, comfortable, good, under belt, best, performed, performance, skills, skilled, done minimum, at least, top, so many, many, most, well known
+GP Mentioned: gp, gps, family doctor, family doc
+Surgeon: surgeon, surgeons, uro, urologist, urologists, specialist, specialists, consultant, consultants
+Radiologist: radiologist, radiologists, radiation oncologist, radiation oncologists, radiotherapist, radiotherapists
