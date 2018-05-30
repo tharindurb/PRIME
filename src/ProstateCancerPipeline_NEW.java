@@ -87,7 +87,7 @@ public class ProstateCancerPipeline_NEW {
                     JSONObject profile = Utils.getJSONFromFile(file);
 
                     //extract demographics
-                    if (options.contains("demographics")) {
+                    if (options.contains("all") || options.contains("demographics")) {
                         extractDemographics(profile);
                         if (profile.has("ProfileDemographics")) profile.remove("ProfileDemographics");
                         JSONObject profileDemographics = AggregateDemographics_ProstateCancer.getProfileDemographics(profile);
@@ -100,40 +100,40 @@ public class ProstateCancerPipeline_NEW {
                     if (profile.has("About")) about = profile.getString("About");
 
                     //extract gleason score
-                    if (options.contains("gleason")) {
+                    if (options.contains("all") || options.contains("gleason")) {
                         GleasonScoreExtractor.getGleasonScoreProfileJSON(profile, allPosts, about);
                     }
 
                     //extract treatment type
-                    if (options.contains("treatmentType")) {
+                    if (options.contains("all") || options.contains("treatmentType")) {
                         TreatmentTypeExtractor.getTreatmentTypeProfileJSON(profile, experiencedPosts, about);
                     }
 
                     //extract side effects
-                    if (options.contains("sideEffects")) {
+                    if (options.contains("all") || options.contains("sideEffects")) {
                         SideEffectExtractor.getSideEffectsProfileJSON(profile, experiencedPosts, about);
                     }
 
                   //extract emotions
-                    if (options.contains("emotions")) {
+                    if (options.contains("all") || options.contains("emotions")) {
                         EmotionExtractor.getEmotionsProfileJSON(profile, experiencedPosts);
                     }
 
 
-                    if (options.contains("postTypeInfo")) {
+                    if (options.contains("all") || options.contains("postTypeInfo")) {
                         PostTypeCountExtractor.extractPostTypeInfoTreatment(profile);
                     }
 
-                    if (options.contains("treatmentConfirmation")) {
+                    if (options.contains("all") || options.contains("treatmentConfirmation")) {
                         TreatmentTimelineExtractor.getTreatmentTypeExtracted(profile);
                     }
 
-                    if(options.contains("treatmentDecision")){
+                    if(options.contains("all") || options.contains("treatmentDecision")){
                         TreatmentDecisionExtractor.extractTreatmentDecision(profile);
                     }
 
 //                 extract PSA
-                    if (options.contains("psa")) {
+                    if (options.contains("all") || options.contains("psa")) {
                         PSAExtractor.getPSAProfileJSON(profile, allPosts, about);
                     }
 
