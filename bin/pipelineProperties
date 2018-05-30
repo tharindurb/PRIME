@@ -1,0 +1,5 @@
+types=cancerforums, healingwell, healthboards, macmillanuk, cancercompass, csn, prostatecanceruk, patientinfo, ustoo, prostatecancerinfolink, prostatakrebs
+options=demographics, all
+folderPath =./ProstateProfiles/
+#options=demographics, gleason, treatmentType, sideEffects, emotions, sentiment, psa, postTypeInfo, treatmentConfirmation, treatmentDecision, all
+#types=cancerforums, healingwell, healthboards, macmillanuk, cancercompass, csn, prostatecanceruk, patientinfo, ustoo, prostatecancerinfolink, prostatakrebs
