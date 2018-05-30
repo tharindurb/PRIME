@@ -5,11 +5,17 @@
   
 <p align="justify">PEAP is composed of an ensemble of machine learning (ML) algorithms and natural language processing (NLP) techniques adapted to address the nature, content and variety of these discussions.</p>
 
-### Contributors 
-<p align="justify">PEAP is a collaborative effort from the machine learning researchers of <a href="https://www.latrobe.edu.au/centre-for-data-analytics-and-cognition "><strong>Research Centre for Data Analytics and Cognition</strong></a> with the guidance  and support from the clinicians at <a href="http://www.austin.org.au"><strong>Austin Health</strong></a>.</p>
+### Source and Binaries
+<p align="justify">The java source of PEAP is included in the <strong>src</strong> folder which needs to be build using JAVA 1.8 and the dependencies included in the <strong>pom.xml</strong> need to be linked using <strong>maven</strong>.</p>
+
+<p align="justify">The executable version of PEAP is included in the <strong>bin</strong> folder with the execution instructions.</p>
+
 
 ### Data
 <p align="justify">PEAP is trialled on a large collection of Prostate cancer related OSG discussion collected from 10 large OSGs using web scraping techniques. While the collected data is publicly available in the respective OSG websites, in order to protect the privacy of the users the dataset is not included with this open source distribution. However, the dataset will be made available to the researchers who have ethics approval and wish sign a data usage agreement.</p>
+
+### Contributors 
+<p align="justify">PEAP is a collaborative effort from the machine learning researchers of <a href="https://www.latrobe.edu.au/centre-for-data-analytics-and-cognition "><strong>Research Centre for Data Analytics and Cognition</strong></a> with the guidance  and support from the clinicians at <a href="http://www.austin.org.au"><strong>Austin Health</strong></a>.</p>
 
 ### Publications:
 <p align="justify">The architecture, algorithms are explained and the results are discussed in the following publications.</p>

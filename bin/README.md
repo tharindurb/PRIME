@@ -1,5 +1,5 @@
 # PEAP - Executing the pipeline
-<p align="justify">The main data extraction pipeline of PEAP can be executed using the PEAP.jar file provided. You need to include the following dependencies before executing the pipeline. </p>
+<p align="justify">The main data extraction pipeline of PEAP can be executed using the PEAP.jar file provided. You need to include the following dependency jars into the <strong>libs</strong> folder before executing the pipeline. </p>
 <ol>
   <li>stanford-corenlp:3.6.0</li>
   <li>stanford-corenlp:models:3.6.0</li>
@@ -15,4 +15,4 @@
 <p align="justify">Please refer to the pipelineproperties file to set the location of data and to provide which options (treatment type/ emotions/ side effects etc.) need to be extracted.</p>
 
 ## Data format
-<p align="justify">Data are stored in a .json format. Please refer to sample.json file to understand the structure of the data.</p>
+<p align="justify">Data are stored in a .json format. Please refer to <strong>sample.json</strong> file to understand the structure of the data. Execution of PEAP pipeline using <strong>analyse health forum data.bat</strong> read each .json file, extract infromation and include the extreacted infromation as seperate fields into the same json file. </p>
