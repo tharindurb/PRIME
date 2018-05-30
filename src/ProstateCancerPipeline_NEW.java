@@ -109,11 +109,6 @@ public class ProstateCancerPipeline_NEW {
                         TreatmentTypeExtractor.getTreatmentTypeProfileJSON(profile, experiencedPosts, about);
                     }
 
-//                    extarct surgery type
-                    if (options.contains("surgeryType")) {
-                        SurgeryTypeExtarctor.getSurgeryTypeProfileJSON(profile, allPosts, about);
-                    }
-
                     //extract side effects
                     if (options.contains("sideEffects")) {
                         SideEffectExtractor.getSideEffectsProfileJSON(profile, experiencedPosts, about);
@@ -128,15 +123,6 @@ public class ProstateCancerPipeline_NEW {
                     if (options.contains("postTypeInfo")) {
                         PostTypeCountExtractor.extractPostTypeInfoTreatment(profile);
                     }
-
-                    if (options.contains("postSpanInfo")) {
-                        PostSpanExtractor.extractPostSpanInfoTreatment(profile);
-                    }
-
-                    if (options.contains("surgeryDecision")) {
-                        SurgeryTypeDecisionExtractor.extractDecisionTypeInfo(profile);
-                    }
-
 
                     if (options.contains("treatmentConfirmation")) {
                         TreatmentTimelineExtractor.getTreatmentTypeExtracted(profile);
