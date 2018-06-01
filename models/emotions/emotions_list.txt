@@ -1,18 +1,18 @@
-OPEN:understanding,confident,reliable,easy,amazed,free,sympathetic,interested,satisfied,receptive,accepting,kind
-HAPPY:great,joyous,lucky,fortunate,delighted,overjoyed,gleeful,important,festive,ecstatic,satisfied,glad,cheerful,sunny,merry,elated,jubilant
-ALIVE:playful,courageous,energetic,liberated,optimistic,provocative,impulsive,free,frisky,animated,spirited,thrilled,wonderful
-GOOD:calm,peaceful,at ease,comfortable,pleased,encouraged,clever,surprised,content,quiet,certain,relaxed,serene,free and easy,bright,blessed,reassured
-LOVE:loving,considerate,affectionate,sensitive,tender,devoted,attracted,passionate,admiration,warm,touched,sympathy,close,loved,comforted,drawn toward
-INTERESTED:concerned,affected,fascinated,intrigued,absorbed,inquisitive,nosy,snoopy,engrossed,curious
-POSITIVE:eager,keen,earnest,intent,anxious,inspired,determined,excited,enthusiastic,bold,brave,daring,challenged,optimistic,re-enforced,confident,hopeful
-STRONG:impulsive,free,sure,certain,rebellious,unique,dynamic,tenacious,hardy,secure
-ANGRY:irritated,enraged,hostile,insulting,sore,annoyed,upset,hateful,unpleasant,offensive,bitter,aggressive,resentful,inflamed,provoked,incensed,infuriated,cross,worked up,boiling,fuming,indignant
-DEPRESSED:lousy,disappointed,discouraged,ashamed,powerless,diminished,guilty,dissatisfied,miserable,detestable,repugnant,despicable,disgusting,abominable,terrible,in despair,sulky,bad
-CONFUSED:upset,doubtful,uncertain,indecisive,perplexed,embarrassed,hesitant,shy,stupefied,disillusioned,unbelieving,skeptical,distrustful,misgiving,lost,unsure,uneasy,pessimistic,tense
-HELPLESS:incapable,alone,paralyzed,fatigued,useless,inferior,vulnerable,empty,forced,hesitant,despair,frustrated,distressed,woeful,pathetic,tragic,in a stew,dominated
-INDIFFERENT:insensitive,dull,nonchalant,neutral,reserved,weary,bored,preoccupied,cold,disinterested,lifeless
-AFRAID:fearful,terrified,suspicious,anxious,alarmed,panic,nervous,scared,worried,frightened,timid,shaky,restless,doubtful,threatened,cowardly,quaking,menaced,wary
-HURT:crushed,tormented,deprived,pained,tortured,dejected,rejected,injured,offended,afflicted,aching,victimized,heartbroken,agonized,appalled,humiliated,wronged,alienated
-SAD:tearful,sorrowful,pained,grief,anguish,desolate,desperate,pessimistic,unhappy,lonely,grieved,mournful,dismayed
+OPEN:understanding,confident,reliable,easy,amazed,free,sympathetic,interested,satisfied,receptive,accepting,kind,open minded,empathetic,cooperative,accommodating,approachable,forgiving,attuned,rational
+HAPPY:great,joyous,lucky,fortunate,delighted,overjoyed,gleeful,important,festive,ecstatic,satisfied,glad,cheerful,sunny,merry,elated,jubilant,fab,chuffed,terrific,great news,looking forward,heart warming,uplifting,upbeat
+ALIVE:playful,courageous,energetic,liberated,optimistic,provocative,impulsive,free,frisky,animated,spirited,thrilled,wonderful,chatty,perky,sociable,vibrant,vivacious,witty,easy going,peppy
+GOOD:calm,peaceful,at ease,comfortable,pleased,encouraged,clever,surprised,content,quiet,certain,relaxed,serene,free and easy,bright,blessed,reassured,comfy,nice,chill,chipper,ok,okay,clear headed,cool
+LOVE:loving,considerate,affectionate,sensitive,tender,devoted,attracted,passionate,admiration,warm,touched,sympathy,close,loved,comforted,drawn toward,romantic,cuddly,compassionate,intimate,adore,supportive,caring
+INTERESTED:concerned,affected,fascinated,intrigued,absorbed,inquisitive,nosy,snoopy,engrossed,curious,keen,impressed,cautious,leery,eager,intuitive,savvy,thoughtful
+POSITIVE:eager,keen,earnest,intent,anxious,inspired,determined,excited,enthusiastic,bold,brave,daring,challenged,optimistic,re-enforced,confident,hopeful,smart,ambitious,proactive,cynical,insistent,willing,upbeat
+STRONG:impulsive,free,sure,certain,rebellious,unique,dynamic,tenacious,hardy,secure,resilient,independent,adamant,fierce,self reliant,decisive,fighter,pragmatic
+ANGRY:irritated,enraged,hostile,insulting,sore,annoyed,upset,hateful,unpleasant,offensive,bitter,aggressive,resentful,inflamed,provoked,incensed,infuriated,cross,worked up,boiling,fuming,indignant,agitated,hostile,pissed off,argumentative,aggressive,rude,paranoid,ticked off,lashing out
+DEPRESSED:lousy,disappointed,discouraged,ashamed,powerless,diminished,guilty,dissatisfied,miserable,detestable,repugnant,despicable,disgusting,abominable,terrible,in despair,sulky,bad,despondent,distraught,suicidal,unloved,worthless,emotionally drained,snappy
+CONFUSED:upset,doubtful,uncertain,indecisive,perplexed,embarrassed,hesitant,shy,stupefied,disillusioned,unbelieving,skeptical,distrustful,misgiving,lost,unsure,uneasy,pessimistic,tense,unsure,perplexed,wary,leery freaked out,iffy,bummed,taken aback
+HELPLESS:incapable,alone,paralyzed,fatigued,useless,inferior,vulnerable,empty,forced,hesitant,despair,frustrated,distressed,woeful,pathetic,tragic,in a stew,dominated,insecure,tired,hopeless,powerless,defeated,overwhelmed,listless,incapacitated
+INDIFFERENT:insensitive,dull,nonchalant,neutral,reserved,weary,bored,preoccupied,cold,disinterested,lifeless,grumpy,apathetic,blunt,ignorant,emotionless,callous,crass,standoffish
+AFRAID:fearful,terrified,suspicious,anxious,alarmed,panic,nervous,scared,worried,frightened,timid,shaky,restless,doubtful,threatened,cowardly,quaking,menaced,wary,petrified,freaking out,apprehensive,dread,obsess,fret,nervous wreck
+HURT:crushed,tormented,deprived,pained,tortured,dejected,rejected,injured,offended,afflicted,aching,victimized,heartbroken,agonized,appalled,humiliated,wronged,alienated,traumatised,bruised,shattered,ached,exhausted,cramped,numb,fatigued,strained
+SAD:tearful,sorrowful,pained,grief,anguish,desolate,desperate,pessimistic,unhappy,lonely,grieved,mournful,dismayed,heart break,teary,lonely,weepy,crying,despairing,hurtful
 
 
