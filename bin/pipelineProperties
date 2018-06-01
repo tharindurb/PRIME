@@ -1,5 +1,5 @@
 types=cancerforums, healingwell, healthboards, macmillanuk, cancercompass, csn, prostatecanceruk, patientinfo, ustoo, prostatecancerinfolink, prostatakrebs
-options=demographics, all
-folderPath =./ProstateProfiles/
-#options=demographics, gleason, treatmentType, sideEffects, emotions, sentiment, psa, postTypeInfo, treatmentConfirmation, treatmentDecision, all
-#types=cancerforums, healingwell, healthboards, macmillanuk, cancercompass, csn, prostatecanceruk, patientinfo, ustoo, prostatecancerinfolink, prostatakrebs
+options=all
+folderPath =./OSGProfiles/
+#options: 'all' executes the entire PEAP pipeline while individual stages can be executed using the following options: demographics, gleason, treatmentType, sideEffects, emotions, sentiment, psa, postTypeInfo, treatmentConfirmation, treatmentDecision
+#types: types are the names of the sub-folders inside the 'folderPath' (e.g., ./OSGProfiles/healingwell) which refers to different OSGs where the data was collected
