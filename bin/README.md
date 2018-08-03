@@ -15,4 +15,4 @@
 <p align="justify">Please refer to the pipelineproperties file to set the location of data and to provide which options (treatment type/ emotions/ side effects etc.) need to be extracted.</p>
 
 ## Data format
-<p align="justify">Data are stored in a .json format. Please refer to <strong>sample.json</strong> file to understand the structure of the data. Execution of PEAP pipeline using <strong>analyse health forum data.bat</strong> read each .json file, extract infromation and include the extreacted infromation as seperate fields into the same json file. </p>
+<p align="justify">Data are stored in a .json format. Please refer to <strong>sample.json</strong> file to understand the structure of the data. Execution of PRIME pipeline using <strong>analyse health forum data.bat</strong> read each .json file, extract infromation and include the extreacted infromation as seperate fields into the same json file. </p>
