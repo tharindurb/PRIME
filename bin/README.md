@@ -1,5 +1,5 @@
-# PEAP - Executing the pipeline
-<p align="justify">The main data extraction pipeline of PEAP can be executed using the PEAP.jar file provided. You need to include the following dependency jars into the <strong>libs</strong> folder before executing the pipeline. </p>
+# PRIME - Executing the pipeline
+<p align="justify">The main data extraction pipeline of PRIME can be executed using the PRIME.jar file provided. You need to include the following dependency jars into the <strong>libs</strong> folder before executing the pipeline. </p>
 <ol>
   <li>stanford-corenlp:3.6.0</li>
   <li>stanford-corenlp:models:3.6.0</li>
