@@ -1,1 +1,1 @@
-java -cp PEAP.jar;./libs/* SaveAuthorsToCSV_TreatmentType
+java -cp PRIME.jar;./libs/* SaveAuthorsToCSV_TreatmentType

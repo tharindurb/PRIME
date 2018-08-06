@@ -1,5 +1,5 @@
 /*
- *   This is part of the source code of Patient Empowered Analytics Platform (PEAP)
+ *   This is part of the source code of Patient Reported Information Multidimensional Exploration (PRIME)
  *
  *   This program is free software: you can redistribute it and/or modify
  *   it under the terms of the GNU General Public License as published by
