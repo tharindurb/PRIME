@@ -8,7 +8,7 @@
 
 
 ### Data
-<p align="justify">PRIME was trialled on publicly available, patient-reported information on Online Support Groups. Techniques used for extraction of this data are included in this code repository.</p>
+<p align="justify">PRIME was trialled on publicly available, patient-reported information on Online Support Groups. Techniques used for extraction and processing of this data are included in this code repository.</p>
 
 ### Contributors 
 <p align="justify">PRIME is a collaborative effort from the machine learning researchers of <a href="https://www.latrobe.edu.au/centre-for-data-analytics-and-cognition "><strong>Research Centre for Data Analytics and Cognition</strong></a> with the guidance  and support from the clinicians at <a href="http://www.austin.org.au"><strong>Austin Health</strong></a>.</p>
