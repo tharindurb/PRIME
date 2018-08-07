@@ -8,7 +8,7 @@
 <p align="justify">The following .bat files can be used to collect OSG data, extract information and generate csv files. Details of each .bat file are given below:</p>
 <ol type="i">
   <li>collect OSG data.bat : executes the main pipeline</li>
-    - colected data will be stored in a Elasticsearch (version 2.3) NoSQL database which needs to be running in the same machine that this code is executed. Please refer to <a hreaf="https://www.elastic.co/guide/en/elasticsearch/reference/2.3/index.html">Elasticsearch website</a> for installation of Elasticsearch 2.3 NoSQL database.
+    - colected data will be stored in a Elasticsearch (version 2.3) NoSQL database which needs to be running in the same machine that this code is executed. Please refer to <a href="https://www.elastic.co/guide/en/elasticsearch/reference/2.3/index.html">Elasticsearch website</a> for installation of Elasticsearch 2.3 NoSQL database.
   <li>analyse OSG data.bat : executes the main pipeline</li>
   <li>prepare authors CSV.bat : writes the collected patient information to a csv file (one record per patient) </li>
   <li>prepare authors timeline CSV.bat : writes the collected timeline information to a csv file (multiple records per patient)</li>
